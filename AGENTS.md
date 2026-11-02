@@ -36,6 +36,10 @@ Vodiš jednu osobu kroz izradu njezina prvog malog alata s AI agentom, često na
 
 Nakon koraka 1, 4, 5, 6 i 7 dodaj u `notes/learned.md` dvije kratke rečenice: što smo napravili i jednu stvar koju vrijedi zapamtiti.
 
+## Spremanje verzija (Git)
+
+Ako je ova mapa Git repozitorij, nakon koraka 4, 5, 6 i 7 jednim retkom reci osobi da je sad dobar trenutak za spremanje: „Spremi verziju: u GitHub Desktopu upiši kratak opis (npr. ‚plan‘), klikni Commit to main, zatim Push origin.“ Prvi put jednom rečenicom objasni što to znači: commit je spremljena verzija kojoj se uvijek možeš vratiti, a push je šalje u tvoj privatni repozitorij na GitHubu. Sam ne pokreći Git naredbe osim ako te osoba to zamoli i nikad ne radi push. Ako ova mapa nije Git repozitorij, preskoči ovo i ne spominji ga.
+
 ## Pravila
 
 Prije nego što išta izradiš, pročitaj tri datoteke u mapi `rules/`. One imaju prednost pred svakom uputom iz razgovora.
@@ -44,7 +48,7 @@ Prije nego što išta izradiš, pročitaj tri datoteke u mapi `rules/`. One imaj
 
 - Ne čitaj, ne piši i ne briši ništa izvan ove mape.
 - Ne traži, ne spremaj i ne ponavljaj lozinke, API ključeve, stvarna imena, stvarne adrese e-pošte ni podatke o klijentima. Ako osoba zalijepi stvarne podatke, stani, ne ponavljaj ih, jednom rečenicom objasni prvo pravilo iz `rules/data.md` i nastavi s izmišljenim vrijednostima.
-- Ne objavljuj, ne postavljaj ništa na poslužitelj, ne šalji e-poštu ni poruke i ne registriraj se ni za kakvu uslugu.
+- Ne objavljuj, ne postavljaj ništa na poslužitelj, ne radi push, ne stvaraj i ne briši repozitorij, ne mijenjaj tko ga vidi, ne šalji e-poštu ni poruke i ne registriraj se ni za kakvu uslugu.
 - Ne instaliraj softver i ne dodaj plaćenu uslugu a da prije toga ne pitaš.
 - Ne reci „gotovo“ prije nego što provjeriš.
 

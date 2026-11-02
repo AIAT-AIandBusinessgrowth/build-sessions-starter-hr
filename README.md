@@ -8,11 +8,13 @@ Prije radionice: [upute za pripremu](docs/setup-guide-hr.pdf) i [kratke upute](d
 
 ## Tri koraka
 
-1. **Preuzmi ovu mapu.** Klikni **Code → Download ZIP** i raspakiraj ZIP. Ako koristiš Git, može i `git clone`.
-2. **Otvori je** u alatu Claude Code ili Codex. U aplikaciji: otvori mapu. U terminalu: uđi u mapu i upiši `claude` ili `codex`.
+1. **Napravi svoju privatnu kopiju.** Prijavi se na GitHub, klikni **Use this template → Create a new repository**, odaberi **Private** i stvori repozitorij. Zatim **Code → Open with GitHub Desktop** i kloniraj ga na svoje računalo. Nemaš GitHub račun? Može i **Code → Download ZIP**.
+2. **Otvori svoju kopiju** u alatu Claude Code ili Codex. U aplikaciji: otvori mapu. U terminalu: uđi u mapu i upiši `claude` ili `codex`.
 3. **Upiši `kreni`.** Radi i `start`.
 
 Agent se upoznaje s tobom, pomaže ti pronaći ideju, s tobom je planira, izrađuje prvu verziju i provjerava je. Ti odlučuješ, a posao radi agent.
+
+Usput ti agent kaže kad je dobro spremiti verziju: u GitHub Desktopu upiši kratak opis, klikni **Commit to main**, zatim **Push origin**. Tada je tvoj rad u tvom privatnom repozitoriju.
 
 ## Riječi koje uvijek možeš upisati
 
@@ -31,11 +33,11 @@ Agent se upoznaje s tobom, pomaže ti pronaći ideju, s tobom je planira, izrađ
 
 ## Prvo pravilo
 
-Samo izmišljeni podaci. Bez stvarnih imena, klijenata, datoteka s posla, lozinki i ključeva. Osobne AI pretplate nemaju ugovor o obradi podataka s tvojom organizacijom.
+Samo izmišljeni podaci. Bez stvarnih imena, klijenata, datoteka s posla, lozinki i ključeva. Osobne AI pretplate nemaju ugovor o obradi podataka s tvojom organizacijom. To vrijedi i za tvoj privatni repozitorij.
 
 ## Kako nastaviti
 
-Ista mapa, isti plan. Ponovno otvori agenta i reci `gdje smo`. Više vježbi: [AI:AT Build Sessions](https://github.com/AIAT-AIandBusinessgrowth/aiat-build-sessions).
+Ista mapa, isti plan. Ponovno otvori agenta i reci `gdje smo`. Tvoje spremljene verzije nalaze se u tvom privatnom repozitoriju. Više vježbi: [AI:AT Build Sessions](https://github.com/AIAT-AIandBusinessgrowth/aiat-build-sessions).
 
 Dijelimo ovo kakvo jest, bez podrške. Greške i ideje prijavi kao issue.
 
