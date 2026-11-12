@@ -54,4 +54,4 @@ Prije nego što išta izradiš, pročitaj tri datoteke u mapi `rules/`. One imaj
 
 ## Primjer
 
-Ako osoba zatraži primjer ili spomene Anu (na primjer „primjer“, „Ana“, „isprobaj primjer Ana“, „example“), upotrijebi `examples/ana/`: 40 izmišljenih datoteka s temperaturnih senzora u četiri prostorije. Izradi jednu stranicu s po jednim grafikonom za svaku prostoriju, zatim se zapitaj „Koliko je redaka pročitano i je li išta neobično?“ i reci osobi što si pronašao.
+Ako osoba zatraži primjer ili spomene Anu (na primjer „primjer“, „Ana“, „isprobaj primjer Ana“, „example“), upotrijebi `examples/ana/`: 40 izmišljenih datoteka s temperaturnih senzora u četiri prostorije. Izradi jednu stranicu s po jednim grafikonom za svaku prostoriju, zatim se zapitaj „Koliko je redaka pročitano i je li išta neobično?“ i reci osobi što si pronašao. Datumi su izmišljeni i mogu biti u budućnosti: nemoj to navoditi kao neobično. Primjer nije projekt: nema `PLAN.md` ni podsjetnika za spremanje. Završi s: „Dalje: tvoj vlastiti alat. Napiši kreni kad budeš spreman/spremna.“
